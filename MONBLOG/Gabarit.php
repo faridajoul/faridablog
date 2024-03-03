@@ -9,12 +9,12 @@
         <div id="global">
             <header>
                 <a href="index.php"><h1 id="titreBlog">farida Blog</h1></a>
-                <p>Je vous souhaite la bienvenue sur ce modeste blog.</p>
+                <p>Bienvenue sur  mon blog.</p>
             </header>
             <div id="contenu">
                         <?= $contenu ?> <!-- Élément spécifique -->
             <footer id="piedBlog">
-                Blog réalisé avec PHP, HTML5 et CSS utilisant le gabarit.
+                Blog réalisé avec PHP.
             </footer>
             </div> <!-- #global -->
     </body>
