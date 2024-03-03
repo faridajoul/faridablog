@@ -1,2 +1,0 @@
-# faridablog
-faridablog
